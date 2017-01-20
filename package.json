@@ -1,8 +1,8 @@
 {
-  "name": "apex-syntax",
+  "name": "apex-syntax-red",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "Apex monochrome theme syntax inspired by iA Writer",
+  "description": "Apex monochrome with a hint of red theme syntax inspired by iA Writer",
   "keywords": [
     "apex",
     "monochrome",
@@ -11,7 +11,7 @@
     "writer",
     "light"
   ],
-  "repository": "https://github.com/apex/apex-syntax",
+  "repository": "https://github.com/jcurtis/apex-syntax-red",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
